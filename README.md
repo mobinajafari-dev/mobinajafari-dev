@@ -63,27 +63,11 @@ Here are some of my best works that showcase my skills:
 
 | Project | Tech Stack | Highlights |
 |---------|------------|------------|
-| 🛒 **Vue E‑commerce** | Vue.js, Vuex, Axios, REST API | • Complete shopping cart<br>• Discount coupon system<br>• User points management |
-| 🎬 **Movie Streaming** | PHP, JavaScript, TMDB API, Webhook | • Online movie streaming<br>• Third-party API integration<br>• Real-time notifications |
-| 🔐 **Secure Auth API** | PHP, MySQL, JWT, OWASP | • Secure authentication<br>• SQL injection protection<br>• XSS & CSRF prevention |
-| 🤖 **Telegram AI Bot** | PHP, ChatGPT API, DeepSeek API | • AI‑powered conversations<br>• Smart code review<br>• Webhook integration |
+| 🛒 **Vue E‑commerce** | Vue.js, Vuex, Axios, REST API | • Complete shopping cart<br>• <br>• User points management |
 
 > 💡 *Click on any project to see the full README with installation guide!*
 
----
 
-## 📊 GitHub Analytics
-
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mobinajafari-dev&show_icons=true&theme=radical&count_private=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mobinajafari-dev&layout=compact&theme=radical" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mobinajafari-dev&theme=radical" />
-</p>
-
----
 
 ## 🌟 What I'm Working On / Learning
 
