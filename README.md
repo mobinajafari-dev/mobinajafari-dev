@@ -1,1 +1,113 @@
+<h1 align="center">👋 Hello, I'm Mobina Jafari</h1>
+<h3 align="center">Full‑Stack Developer | AI Integrations | Building Scalable Web Apps</h3>
 
+<p align="center">
+  <a href="https://mobinajafari.dev" target="_blank"><img src="https://img.shields.io/badge/Portfolio-5735DD?style=for-the-badge&logo=vercel&logoColor=white"></a>
+  <a href="mailto:[YOUR_EMAIL]" target="_blank"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+  <a href="[YOUR_LINKEDIN_URL]" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+</p>
+
+---
+
+## 🚀 About Me
+
+<img align="right" width="250" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
+
+I'm a **Full‑Stack Developer** passionate about building scalable web applications and integrating **AI-powered solutions**. With hands-on experience in **Vue**, **PHP**, **Angular**, and modern APIs, I love turning complex problems into clean, maintainable code.
+
+**💡 What drives me:** I believe technology should be smart, accessible, and human-centered. That's why I focus on integrating AI where it truly adds value.
+
+**🎯 2026 focus:** Mastering React & Next.js, diving deeper into Docker, and building production‑ready AI applications.
+
+**📍 Based:** Arak, Iran | Available for remote opportunities 🌍
+
+---
+
+## 🛠️ Tech Stack & Tools
+
+### Frontend
+![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D)
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Sass](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
+![Tailwind](https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+![jQuery](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white)
+
+### Backend & Database
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![REST API](https://img.shields.io/badge/REST_API-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Webhook](https://img.shields.io/badge/Webhook-000000?style=for-the-badge&logo=webhook&logoColor=white)
+
+### AI & Bots
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
+![DeepSeek](https://img.shields.io/badge/DeepSeek-4A6FA5?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0id2hpdGUiPjxwYXRoIGQ9Ik0xMiAyQzYuNDggMiAyIDYuNDggMiAxMnM0LjQ4IDEwIDEwIDEwIDEwLTQuNDggMTAtMTBTMTcuNTIgMiAxMiAyem0wIDRjMS4xIDAgMiAuOSAyIDJzLS45IDItMiAyLTItLjktMi0yIC45LTIgMi0yeiIvPjwvc3ZnPg==&logoColor=white)
+![Voice Assistant](https://img.shields.io/badge/Voice_Assistant-FF5722?style=for-the-badge&logo=googleassistant&logoColor=white)
+![Telegram Bot](https://img.shields.io/badge/Telegram_Bot-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)
+![ChatGPT API](https://img.shields.io/badge/ChatGPT_API-10A37F?style=for-the-badge&logo=openai&logoColor=white)
+
+### Mobile & Other
+![Framework7](https://img.shields.io/badge/Framework7-EE350F?style=for-the-badge&logo=framework7&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+
+---
+
+## 📌 Pinned Projects
+
+Here are some of my best works that showcase my skills:
+
+| Project | Tech Stack | Highlights |
+|---------|------------|------------|
+| 🛒 **Vue E‑commerce** | Vue.js, Vuex, Axios, REST API | • Complete shopping cart<br>• Discount coupon system<br>• User points management |
+| 🎬 **Movie Streaming** | PHP, JavaScript, TMDB API, Webhook | • Online movie streaming<br>• Third-party API integration<br>• Real-time notifications |
+| 🔐 **Secure Auth API** | PHP, MySQL, JWT, OWASP | • Secure authentication<br>• SQL injection protection<br>• XSS & CSRF prevention |
+| 🤖 **Telegram AI Bot** | PHP, ChatGPT API, DeepSeek API | • AI‑powered conversations<br>• Smart code review<br>• Webhook integration |
+
+> 💡 *Click on any project to see the full README with installation guide!*
+
+---
+
+## 📊 GitHub Analytics
+
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mobinajafari-dev&show_icons=true&theme=radical&count_private=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mobinajafari-dev&layout=compact&theme=radical" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mobinajafari-dev&theme=radical" />
+</p>
+
+---
+
+## 🌟 What I'm Working On / Learning
+
+- 🚀 **Currently learning:** React, Next.js & Docker
+- 🤖 **Building:** An AI-powered voice assistant with DeepSeek API
+- 📱 **Developing:** A mobile fitness tracker with Framework7 + Capacitor
+- 📝 **Writing:** Technical blog about integrating AI in web applications
+
+---
+
+## 📫 Let's Connect
+
+- 🖥️ **Portfolio:** [mobinajafari.dev](https://mobinajafari.dev)
+- 💼 **LinkedIn:** [Mobina Jafari](YOUR_LINKEDIN_URL)
+- 📧 **Email:** [mobinajafari.dev@gmail.com](mailto:mobinajafari.dev@gmail.com)
+- 🐙 **GitHub:** [github.com/mobinajafari-dev](https://github.com/mobinajafari-dev)
+
+---
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=mobinajafari-dev&label=Profile%20Views&color=5735dd&style=flat" alt="Profile Views" />
+  <img src="https://img.shields.io/github/followers/mobinajafari-dev?label=Followers&style=social" />
+</p>
+
+<p align="center">
+  <i>"Clean code, smart AI, and always learning."</i>
+</p>
