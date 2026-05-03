@@ -61,7 +61,7 @@ Here are some of my best works that showcase my skills:
 
 | Project | Tech Stack | Highlights |
 |---------|------------|------------|
-| 🛒 **Vue E‑commerce** | Vue 3, Vue Router, Vuex (via Router), Axios, REST API, SCSS, SweetAlert, vue-i18n, vue3-persian-datetime-picker | • Complete shopping cart<br>• Product listing & details page<br>• User authentication (login/register)<br>• Persian date picker & RTL support<br>• Shopping cart management<br>• User points management<br>• Multi-language (i18n) support<br>• Comment & rating system<br>• Search functionality<br>• Responsive design<br>• Error handling (403, 502 pages) |
+| [**🛒 Vue E‑commerce**](https://github.com/mobinajafari-dev/vue-ecommerce) | Vue 3, Vue Router, Axios, REST API, SCSS, SweetAlert, vue3-persian-datetime-picker | • Complete shopping cart<br>• Product listing & details page<br>• User authentication (login/register)<br>• Persian date picker & RTL support<br>• Shopping cart management<br>• Responsive design<br>• Error handling (403, 502 pages) |
 
 > 💡 *Click on any project to see the full README with installation guide!*
 
