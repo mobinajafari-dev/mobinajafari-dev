@@ -34,7 +34,6 @@ I'm a **Full‑Stack Developer** passionate about building scalable web applicat
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![Sass](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
-![Tailwind](https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
 ![jQuery](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white)
 
 ### Backend & Database
@@ -44,11 +43,10 @@ I'm a **Full‑Stack Developer** passionate about building scalable web applicat
 ![Webhook](https://img.shields.io/badge/Webhook-000000?style=for-the-badge&logo=webhook&logoColor=white)
 
 ### AI & Bots
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
 ![DeepSeek](https://img.shields.io/badge/DeepSeek-4A6FA5?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0id2hpdGUiPjxwYXRoIGQ9Ik0xMiAyQzYuNDggMiAyIDYuNDggMiAxMnM0LjQ4IDEwIDEwIDEwIDEwLTQuNDggMTAtMTBTMTcuNTIgMiAxMiAyem0wIDRjMS4xIDAgMiAuOSAyIDJzLS45IDItMiAyLTItLjktMi0yIC45LTIgMi0yeiIvPjwvc3ZnPg==&logoColor=white)
+![ChatGPT API](https://img.shields.io/badge/ChatGPT_API-10A37F?style=for-the-badge&logo=openai&logoColor=white)
 ![Voice Assistant](https://img.shields.io/badge/Voice_Assistant-FF5722?style=for-the-badge&logo=googleassistant&logoColor=white)
 ![Telegram Bot](https://img.shields.io/badge/Telegram_Bot-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)
-![ChatGPT API](https://img.shields.io/badge/ChatGPT_API-10A37F?style=for-the-badge&logo=openai&logoColor=white)
 
 ### Mobile & Other
 ![Framework7](https://img.shields.io/badge/Framework7-EE350F?style=for-the-badge&logo=framework7&logoColor=white)
@@ -80,8 +78,6 @@ Here are some of my best works that showcase my skills:
 
 ## 📫 Let's Connect
 
-- 🖥️ **Portfolio:** [mobinajafari.dev](https://mobinajafari.dev)
-- 💼 **LinkedIn:** [Mobina Jafari](YOUR_LINKEDIN_URL)
 - 📧 **Email:** [mobinajafari.dev@gmail.com](mailto:mobinajafari.dev@gmail.com)
 - 🐙 **GitHub:** [github.com/mobinajafari-dev](https://github.com/mobinajafari-dev)
 
