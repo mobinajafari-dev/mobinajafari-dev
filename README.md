@@ -53,6 +53,17 @@ I'm a **Full‑Stack Developer** passionate about building scalable web applicat
 
 ---
 
+## 💻 Top Languages
+
+<p align="center">
+  <img 
+       src="https://github-readme-stats.vercel.app/api/top-langs/?username=mobinajafari-dev&layout=compact&theme=radical" 
+       alt="Top Languages"
+  />
+</p>
+
+---
+
 ## 📌 Pinned Projects
 
 Here are some of my best works that showcase my skills:
@@ -63,13 +74,41 @@ Here are some of my best works that showcase my skills:
 
 > 💡 *Click on any project to see the full README with installation guide!*
 
+---
 
+## 📊 GitHub Stats & Activity
+
+<p align="center">
+  <img 
+       src="https://github-readme-stats.vercel.app/api?username=mobinajafari-dev&show_icons=true&theme=radical" 
+       alt="Mobina Jafari GitHub Stats" 
+       width="48%" 
+  />
+  <img 
+       src="https://github-readme-streak-stats.herokuapp.com/?user=mobinajafari-dev&theme=radical" 
+       alt="Mobina Jafari GitHub Streak" 
+       width="48%" 
+  />
+</p>
+
+---
 
 ## 🌟 What I'm Working On / Learning
 
 - 📚 **Currently learning:** React, Next.js, Node.js, Docker  
 - 🧪 **Building (to publish soon):** A full-stack project with React + Node.js (will appear here in 1-2 weeks)  
 - 🎯 **Next step after React:** Deepen backend skills with real-world APIs and deployment
+
+---
+
+## 📈 Contribution Graph
+
+<p align="center">
+  <img 
+       src="https://github-readme-activity-graph.vercel.app/graph?username=mobinajafari-dev&theme=tokyo-night&hide_border=true" 
+       alt="Mobina Jafari Contribution Graph" 
+  />
+</p>
 
 ---
 
