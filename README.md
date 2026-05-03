@@ -51,16 +51,6 @@ I'm a **Full‑Stack Developer** passionate about building scalable web applicat
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 
----
-
-## 💻 Top Languages
-
-<p align="center">
-  <img 
-       src="https://github-readme-stats.vercel.app/api/top-langs/?username=mobinajafari-dev&layout=compact&theme=radical" 
-       alt="Top Languages"
-  />
-</p>
 
 ---
 
@@ -79,15 +69,16 @@ Here are some of my best works that showcase my skills:
 ## 📊 GitHub Stats & Activity
 
 <p align="center">
-  <img 
-       src="https://github-readme-stats.vercel.app/api?username=mobinajafari-dev&show_icons=true&theme=radical" 
-       alt="Mobina Jafari GitHub Stats" 
-       width="48%" 
-  />
+
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=mobinajafari-dev&theme=radical" width="20%" />
+<img 
+  src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mobinajafari-dev&theme=radical" 
+  width="40%"
+/>
   <img 
        src="https://github-readme-streak-stats.herokuapp.com/?user=mobinajafari-dev&theme=radical" 
        alt="Mobina Jafari GitHub Streak" 
-       width="48%" 
+       width="20%" 
   />
 </p>
 
