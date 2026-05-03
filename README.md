@@ -15,7 +15,7 @@ I'm a **Full‑Stack Developer** passionate about building scalable web applicat
 
 **💡 What drives me:** I believe technology should be smart, accessible, and human-centered. That's why I focus on integrating AI where it truly adds value.
 
-**🎯 2026 focus:** Mastering React & Next.js, diving deeper into Docker, and building production‑ready AI applications.
+**🎯 2026 focus:** Mastering React & Next.js & Node js , diving deeper into Docker, and building production‑ready AI applications.
 
 **📍 Based:** Arak, Iran | Available for remote opportunities 🌍
 
@@ -67,10 +67,9 @@ Here are some of my best works that showcase my skills:
 
 ## 🌟 What I'm Working On / Learning
 
-- 🚀 **Currently learning:** React, Next.js & Docker
-- 🤖 **Building:** An AI-powered voice assistant with DeepSeek API
-- 📱 **Developing:** A mobile fitness tracker with Framework7 + Capacitor
-- 📝 **Writing:** Technical blog about integrating AI in web applications
+- 📚 **Currently learning:** React, Next.js, Node.js, Docker  
+- 🧪 **Building (to publish soon):** A full-stack project with React + Node.js (will appear here in 1-2 weeks)  
+- 🎯 **Next step after React:** Deepen backend skills with real-world APIs and deployment
 
 ---
 
@@ -87,5 +86,5 @@ Here are some of my best works that showcase my skills:
 </p>
 
 <p align="center">
-  <i>"Clean code, smart AI, and always learning."</i>
+  <i>"tasks get done, bugs get fixed, but ideas are always rare"</i>
 </p>
