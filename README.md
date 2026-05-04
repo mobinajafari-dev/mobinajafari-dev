@@ -87,7 +87,7 @@ Here are some of my best works that showcase my skills:
 ## 🌟 What I'm Working On / Learning
 
 - 📚 **Currently learning:** React, Next.js, Node.js, Docker  
-- 🧪 **Building (to publish soon):** A full-stack project with React + Node.js (will appear here in 1-2 weeks)  
+- 🧪 **Building (to publish soon):** A full-stack project with React  (will appear here in 1-2 weeks)  
 - 🎯 **Next step after React:** Deepen backend skills with real-world APIs and deployment
 
 ---
