@@ -1,12 +1,13 @@
 <h1 align="center">👋 Hello, I'm Mobina Jafari</h1>
 <h3 align="center">Full‑Stack Developer | AI Integrations | Building Scalable Web Apps</h3>
 
+
 <p align="center">
   <a href="mailto:mobinajafari.dev@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
   </a>
   <a href="https://x.com/mobiiinx" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white">
+    <img src="https://img.shields.io/badge/X.com-000000?style=for-the-badge&logo=x&logoColor=white">
   </a>
 </p>
 
