@@ -113,7 +113,7 @@ Here are some of my best works that showcase my skills:
 
 - 📧 **Email:** [mobinajafari.dev@gmail.com](mailto:mobinajafari.dev@gmail.com)
 - 🐙 **GitHub:** [github.com/mobinajafari-dev](https://github.com/mobinajafari-dev)
-- 🐦 **Twitter:** [twitter.com/YOUR_USERNAME](https://x.com/mobiiinx)
+- 🐦 **Twitter:** [twitter.com/mobiiinx](https://x.com/mobiiinx)
 
 ---
 
