@@ -60,18 +60,6 @@ I'm a **Full‑Stack Developer** passionate about building scalable web applicat
 
 ---
 
-## 📌 Pinned Projects
-
-Here are some of my best works that showcase my skills:
-
-| Project | Tech Stack | Highlights |
-|---------|------------|------------|
-| [**🛒 Vue E‑commerce**](https://github.com/mobinajafari-dev/vue-ecommerce) | Vue 3, Vue Router, Axios, REST API, SCSS, SweetAlert, vue3-persian-datetime-picker | • Complete shopping cart<br>• Product listing & details page<br>• User authentication (login/register)<br>• Persian date picker & RTL support<br>• Shopping cart management<br>• Responsive design<br>• Error handling (403, 502 pages) |
-
-> 💡 *Click on any project to see the full README with installation guide!*
-
----
-
 ## 📊 GitHub Stats & Activity
 
 <p align="center">
